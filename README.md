@@ -10,7 +10,7 @@
   <samp>
     <a href="https://">「 Google Me 」</a>
     <br>
-    「 I am newbie programmer from <b>Indonesia</b> 」
+    「 I am newbie programmer from <b>Indonesiaa</b> 」
     <br>
     <br>
   </samp>
